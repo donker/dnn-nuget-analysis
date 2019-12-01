@@ -1,0 +1,18 @@
+{
+  "NupkgFile": "dotnetnuke.web.mvc.9.0.0.1002.nupkg",
+  "Name": "DotNetNuke.Web.Mvc",
+  "Version": "9.0.0.1002",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Web.Mvc.dll",
+      "Version": "9.0.0.1002"
+    }
+  ],
+  "Dependencies": [],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.Web.Mvc.dll",
+      "Version": "9.0.0.1002"
+    }
+  ]
+}

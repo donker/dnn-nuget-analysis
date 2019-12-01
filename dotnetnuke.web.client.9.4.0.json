@@ -1,0 +1,31 @@
+{
+  "NupkgFile": "dotnetnuke.web.client.9.4.0.nupkg",
+  "Name": "DotNetNuke.Web.Client",
+  "Version": "9.4.0",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Web.Client.dll",
+      "Version": "9.4.0.0"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Name": "DotNetNuke.Core",
+      "Version": "9.4.0"
+    }
+  ],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.dll",
+      "Version": "9.4.0.0"
+    },
+    {
+      "Name": "DotNetNuke.Web.Client.dll",
+      "Version": "9.4.0.0"
+    },
+    {
+      "Name": "Microsoft.ApplicationBlocks.Data.dll",
+      "Version": "2.0.0.0"
+    }
+  ]
+}

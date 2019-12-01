@@ -1,0 +1,18 @@
+{
+  "NupkgFile": "dotnetnuke.providers.folderproviders.9.2.0.366.nupkg",
+  "Name": "DotNetNuke.Providers.FolderProviders",
+  "Version": "9.2.0.366",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Providers.FolderProviders.dll",
+      "Version": "9.2.0.366"
+    }
+  ],
+  "Dependencies": [],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.Providers.FolderProviders.dll",
+      "Version": "9.2.0.366"
+    }
+  ]
+}

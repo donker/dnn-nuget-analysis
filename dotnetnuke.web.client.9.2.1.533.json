@@ -1,0 +1,18 @@
+{
+  "NupkgFile": "dotnetnuke.web.client.9.2.1.533.nupkg",
+  "Name": "DotNetNuke.Web.Client",
+  "Version": "9.2.1.533",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Web.Client.dll",
+      "Version": "9.2.1.533"
+    }
+  ],
+  "Dependencies": [],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.Web.Client.dll",
+      "Version": "9.2.1.533"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "NupkgFile": "dotnetnuke.bundle.9.2.1.533.nupkg",
+  "Name": "DotNetNuke.Bundle",
+  "Version": "9.2.1.533",
+  "Assemblies": [
+    {
+      "Name": "DNN.Integration.Test.Framework.dll",
+      "Version": "9.2.1.533"
+    },
+    {
+      "Name": "DotNetNuke.HttpModules.dll",
+      "Version": "9.2.1.533"
+    },
+    {
+      "Name": "DotNetNuke.Modules.DigitalAssets.dll",
+      "Version": "9.2.1.533"
+    },
+    {
+      "Name": "DotNetNuke.Tests.Utilities.dll",
+      "Version": "1.0.0.0"
+    },
+    {
+      "Name": "DotNetNuke.WebControls.dll",
+      "Version": "2.4.0.598"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Name": "DotNetNuke.Core",
+      "Version": "9.2.1"
+    },
+    {
+      "Name": "DotNetNuke.Instrumentation",
+      "Version": "9.2.1"
+    },
+    {
+      "Name": "DotNetNuke.Web",
+      "Version": "9.2.1"
+    },
+    {
+      "Name": "DotNetNuke.Web.Client",
+      "Version": "9.2.1"
+    },
+    {
+      "Name": "DotNetNuke.Web.Deprecated",
+      "Version": "9.2.1"
+    },
+    {
+      "Name": "DotNetNuke.Web.Mvc",
+      "Version": "9.2.1"
+    },
+    {
+      "Name": "DotNetNuke.WebApi",
+      "Version": "9.2.1"
+    }
+  ],
+  "AllAssemblies": [
+    {
+      "Name": "DNN.Integration.Test.Framework.dll",
+      "Version": "9.2.1.533"
+    },
+    {
+      "Name": "DotNetNuke.dll",
+      "Version": "9.2.1.533"
+    },
+    {
+      "Name": "DotNetNuke.HttpModules.dll",
+      "Version": "9.2.1.533"
+    },
+    {
+      "Name": "DotNetNuke.Instrumentation.dll",
+      "Version": "9.2.1.533"
+    },
+    {
+      "Name": "DotNetNuke.Log4Net.dll",
+      "Version": "3.0.1.0"
+    },
+    {
+      "Name": "DotNetNuke.Modules.DigitalAssets.dll",
+      "Version": "9.2.1.533"
+    },
+    {
+      "Name": "DotNetNuke.Tests.Utilities.dll",
+      "Version": "1.0.0.0"
+    },
+    {
+      "Name": "DotNetNuke.Web.Client.dll",
+      "Version": "9.2.1.533"
+    },
+    {
+      "Name": "DotNetNuke.Web.Deprecated.dll",
+      "Version": "9.2.1.533"
+    },
+    {
+      "Name": "DotNetNuke.Web.dll",
+      "Version": "9.2.1.533"
+    },
+    {
+      "Name": "DotNetNuke.Web.Mvc.dll",
+      "Version": "9.2.1.533"
+    },
+    {
+      "Name": "DotNetNuke.WebControls.dll",
+      "Version": "2.4.0.598"
+    },
+    {
+      "Name": "DotNetNuke.WebUtility.dll",
+      "Version": "4.2.1.783"
+    },
+    {
+      "Name": "Microsoft.ApplicationBlocks.Data.dll",
+      "Version": "2.0.0.0"
+    },
+    {
+      "Name": "Newtonsoft.Json.dll",
+      "Version": "4.5.6.14930"
+    },
+    {
+      "Name": "System.Net.Http.dll",
+      "Version": "1.0.0.0"
+    },
+    {
+      "Name": "System.Net.Http.Formatting.dll",
+      "Version": "4.0.20710.0"
+    },
+    {
+      "Name": "System.Net.Http.WebRequest.dll",
+      "Version": "1.0.0.0"
+    },
+    {
+      "Name": "Telerik.Web.UI.dll",
+      "Version": "2013.2.717.40"
+    }
+  ]
+}

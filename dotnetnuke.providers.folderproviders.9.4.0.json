@@ -1,0 +1,31 @@
+{
+  "NupkgFile": "dotnetnuke.providers.folderproviders.9.4.0.nupkg",
+  "Name": "DotNetNuke.Providers.FolderProviders",
+  "Version": "9.4.0",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Providers.FolderProviders.dll",
+      "Version": "9.4.0.0"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Name": "DotNetNuke.Core",
+      "Version": "9.4.0"
+    }
+  ],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.dll",
+      "Version": "9.4.0.0"
+    },
+    {
+      "Name": "DotNetNuke.Providers.FolderProviders.dll",
+      "Version": "9.4.0.0"
+    },
+    {
+      "Name": "Microsoft.ApplicationBlocks.Data.dll",
+      "Version": "2.0.0.0"
+    }
+  ]
+}

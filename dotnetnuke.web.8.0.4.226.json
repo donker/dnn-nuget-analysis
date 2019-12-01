@@ -1,0 +1,26 @@
+{
+  "NupkgFile": "dotnetnuke.web.8.0.4.226.nupkg",
+  "Name": "DotNetNuke.Web",
+  "Version": "8.0.4.226",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Web.dll",
+      "Version": "8.0.4.226"
+    },
+    {
+      "Name": "DotNetNuke.WebUtility.dll",
+      "Version": "4.2.1.783"
+    }
+  ],
+  "Dependencies": [],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.Web.dll",
+      "Version": "8.0.4.226"
+    },
+    {
+      "Name": "DotNetNuke.WebUtility.dll",
+      "Version": "4.2.1.783"
+    }
+  ]
+}

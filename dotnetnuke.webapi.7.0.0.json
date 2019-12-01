@@ -1,0 +1,42 @@
+{
+  "NupkgFile": "dotnetnuke.webapi.7.0.0.nupkg",
+  "Name": "DotNetNuke.WebApi",
+  "Version": "7.0.0",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Web.dll",
+      "Version": "7.0.0.1589"
+    },
+    {
+      "Name": "System.Net.Http.dll",
+      "Version": "1.0.0.0"
+    },
+    {
+      "Name": "System.Net.Http.Formatting.dll",
+      "Version": "4.0.20710.0"
+    },
+    {
+      "Name": "System.Web.Http.dll",
+      "Version": "4.0.20710.0"
+    }
+  ],
+  "Dependencies": [],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.Web.dll",
+      "Version": "7.0.0.1589"
+    },
+    {
+      "Name": "System.Net.Http.dll",
+      "Version": "1.0.0.0"
+    },
+    {
+      "Name": "System.Net.Http.Formatting.dll",
+      "Version": "4.0.20710.0"
+    },
+    {
+      "Name": "System.Web.Http.dll",
+      "Version": "4.0.20710.0"
+    }
+  ]
+}

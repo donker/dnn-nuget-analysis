@@ -1,0 +1,18 @@
+{
+  "NupkgFile": "dotnetnuke.web.mvc.8.0.4.226.nupkg",
+  "Name": "DotNetNuke.Web.Mvc",
+  "Version": "8.0.4.226",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Web.Mvc.dll",
+      "Version": "8.0.4.226"
+    }
+  ],
+  "Dependencies": [],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.Web.Mvc.dll",
+      "Version": "8.0.4.226"
+    }
+  ]
+}

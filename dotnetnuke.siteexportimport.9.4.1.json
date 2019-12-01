@@ -1,0 +1,71 @@
+{
+  "NupkgFile": "dotnetnuke.siteexportimport.9.4.1.nupkg",
+  "Name": "DotNetNuke.SiteExportImport",
+  "Version": "9.4.1",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.SiteExportImport.dll",
+      "Version": "9.4.1.22"
+    },
+    {
+      "Name": "DotNetNuke.SiteExportImport.Library.dll",
+      "Version": "9.4.1.22"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Name": "DotNetNuke.Core",
+      "Version": "9.4.1"
+    },
+    {
+      "Name": "DotNetNuke.Instrumentation",
+      "Version": "9.4.1"
+    },
+    {
+      "Name": "DotNetNuke.Web",
+      "Version": "9.4.1"
+    }
+  ],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.DependencyInjection.dll",
+      "Version": "9.4.1.22"
+    },
+    {
+      "Name": "DotNetNuke.dll",
+      "Version": "9.4.1.22"
+    },
+    {
+      "Name": "DotNetNuke.Instrumentation.dll",
+      "Version": "9.4.1.22"
+    },
+    {
+      "Name": "DotNetNuke.Log4Net.dll",
+      "Version": "3.0.1.0"
+    },
+    {
+      "Name": "DotNetNuke.SiteExportImport.dll",
+      "Version": "9.4.1.22"
+    },
+    {
+      "Name": "DotNetNuke.SiteExportImport.Library.dll",
+      "Version": "9.4.1.22"
+    },
+    {
+      "Name": "DotNetNuke.Web.dll",
+      "Version": "9.4.1.22"
+    },
+    {
+      "Name": "DotNetNuke.WebUtility.dll",
+      "Version": "4.2.1.783"
+    },
+    {
+      "Name": "Microsoft.ApplicationBlocks.Data.dll",
+      "Version": "2.0.0.0"
+    },
+    {
+      "Name": "Microsoft.Extensions.DependencyInjection.dll",
+      "Version": "2.1.1.18157"
+    }
+  ]
+}

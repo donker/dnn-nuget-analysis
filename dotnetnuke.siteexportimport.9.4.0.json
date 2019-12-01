@@ -1,0 +1,63 @@
+{
+  "NupkgFile": "dotnetnuke.siteexportimport.9.4.0.nupkg",
+  "Name": "DotNetNuke.SiteExportImport",
+  "Version": "9.4.0",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.SiteExportImport.dll",
+      "Version": "9.4.0.0"
+    },
+    {
+      "Name": "DotNetNuke.SiteExportImport.Library.dll",
+      "Version": "9.4.0.0"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Name": "DotNetNuke.Core",
+      "Version": "9.4.0"
+    },
+    {
+      "Name": "DotNetNuke.Instrumentation",
+      "Version": "9.4.0"
+    },
+    {
+      "Name": "DotNetNuke.Web",
+      "Version": "9.4.0"
+    }
+  ],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.dll",
+      "Version": "9.4.0.0"
+    },
+    {
+      "Name": "DotNetNuke.Instrumentation.dll",
+      "Version": "9.4.0.0"
+    },
+    {
+      "Name": "DotNetNuke.Log4Net.dll",
+      "Version": "3.0.1.0"
+    },
+    {
+      "Name": "DotNetNuke.SiteExportImport.dll",
+      "Version": "9.4.0.0"
+    },
+    {
+      "Name": "DotNetNuke.SiteExportImport.Library.dll",
+      "Version": "9.4.0.0"
+    },
+    {
+      "Name": "DotNetNuke.Web.dll",
+      "Version": "9.4.0.0"
+    },
+    {
+      "Name": "DotNetNuke.WebUtility.dll",
+      "Version": "4.2.1.783"
+    },
+    {
+      "Name": "Microsoft.ApplicationBlocks.Data.dll",
+      "Version": "2.0.0.0"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "NupkgFile": "dotnetnuke.instrumentation.7.4.2.216.nupkg",
+  "Name": "DotNetNuke.Instrumentation",
+  "Version": "7.4.2.216",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Instrumentation.dll",
+      "Version": "7.4.2.216"
+    }
+  ],
+  "Dependencies": [],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.Instrumentation.dll",
+      "Version": "7.4.2.216"
+    }
+  ]
+}

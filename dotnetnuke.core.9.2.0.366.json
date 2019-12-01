@@ -1,0 +1,26 @@
+{
+  "NupkgFile": "dotnetnuke.core.9.2.0.366.nupkg",
+  "Name": "DotNetNuke.Core",
+  "Version": "9.2.0.366",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.dll",
+      "Version": "9.2.0.366"
+    },
+    {
+      "Name": "Microsoft.ApplicationBlocks.Data.dll",
+      "Version": "2.0.0.0"
+    }
+  ],
+  "Dependencies": [],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.dll",
+      "Version": "9.2.0.366"
+    },
+    {
+      "Name": "Microsoft.ApplicationBlocks.Data.dll",
+      "Version": "2.0.0.0"
+    }
+  ]
+}

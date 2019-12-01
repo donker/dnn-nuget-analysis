@@ -1,0 +1,26 @@
+{
+  "NupkgFile": "dotnetnuke.web.7.1.0.nupkg",
+  "Name": "DotNetNuke.Web",
+  "Version": "7.1.0",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Web.dll",
+      "Version": "7.1.0.1442"
+    },
+    {
+      "Name": "Telerik.Web.UI.dll",
+      "Version": "2013.1.403.40"
+    }
+  ],
+  "Dependencies": [],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.Web.dll",
+      "Version": "7.1.0.1442"
+    },
+    {
+      "Name": "Telerik.Web.UI.dll",
+      "Version": "2013.1.403.40"
+    }
+  ]
+}

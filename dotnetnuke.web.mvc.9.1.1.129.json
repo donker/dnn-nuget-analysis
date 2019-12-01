@@ -1,0 +1,31 @@
+{
+  "NupkgFile": "dotnetnuke.web.mvc.9.1.1.129.nupkg",
+  "Name": "DotNetNuke.Web.Mvc",
+  "Version": "9.1.1.129",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Web.Mvc.dll",
+      "Version": "9.1.1.129"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Name": "DotNetNuke.Web",
+      "Version": "9.1.1"
+    }
+  ],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.Web.dll",
+      "Version": "9.1.1.129"
+    },
+    {
+      "Name": "DotNetNuke.Web.Mvc.dll",
+      "Version": "9.1.1.129"
+    },
+    {
+      "Name": "DotNetNuke.WebUtility.dll",
+      "Version": "4.2.1.783"
+    }
+  ]
+}

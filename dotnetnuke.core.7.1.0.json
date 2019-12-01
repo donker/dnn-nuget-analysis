@@ -1,0 +1,26 @@
+{
+  "NupkgFile": "dotnetnuke.core.7.1.0.nupkg",
+  "Name": "DotNetNuke.Core",
+  "Version": "7.1.0",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.dll",
+      "Version": "7.1.0.1442"
+    },
+    {
+      "Name": "Microsoft.ApplicationBlocks.Data.dll",
+      "Version": "2.0.0.0"
+    }
+  ],
+  "Dependencies": [],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.dll",
+      "Version": "7.1.0.1442"
+    },
+    {
+      "Name": "Microsoft.ApplicationBlocks.Data.dll",
+      "Version": "2.0.0.0"
+    }
+  ]
+}

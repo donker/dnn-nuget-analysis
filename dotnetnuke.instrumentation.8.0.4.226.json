@@ -1,0 +1,18 @@
+{
+  "NupkgFile": "dotnetnuke.instrumentation.8.0.4.226.nupkg",
+  "Name": "DotNetNuke.Instrumentation",
+  "Version": "8.0.4.226",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Instrumentation.dll",
+      "Version": "8.0.4.226"
+    }
+  ],
+  "Dependencies": [],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.Instrumentation.dll",
+      "Version": "8.0.4.226"
+    }
+  ]
+}

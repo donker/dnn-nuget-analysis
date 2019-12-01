@@ -1,0 +1,34 @@
+{
+  "NupkgFile": "dotnetnuke.web.deprecated.9.0.0.1002.nupkg",
+  "Name": "DotNetNuke.Web.Deprecated",
+  "Version": "9.0.0.1002",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Web.Deprecated.dll",
+      "Version": "9.0.0.1002"
+    },
+    {
+      "Name": "DotNetNuke.WebUtility.dll",
+      "Version": "4.2.1.783"
+    },
+    {
+      "Name": "Telerik.Web.UI.dll",
+      "Version": "2013.2.717.40"
+    }
+  ],
+  "Dependencies": [],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.Web.Deprecated.dll",
+      "Version": "9.0.0.1002"
+    },
+    {
+      "Name": "DotNetNuke.WebUtility.dll",
+      "Version": "4.2.1.783"
+    },
+    {
+      "Name": "Telerik.Web.UI.dll",
+      "Version": "2013.2.717.40"
+    }
+  ]
+}

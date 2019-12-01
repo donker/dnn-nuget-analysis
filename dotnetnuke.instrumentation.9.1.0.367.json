@@ -1,0 +1,26 @@
+{
+  "NupkgFile": "dotnetnuke.instrumentation.9.1.0.367.nupkg",
+  "Name": "DotNetNuke.Instrumentation",
+  "Version": "9.1.0.367",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Instrumentation.dll",
+      "Version": "9.1.0.367"
+    },
+    {
+      "Name": "DotNetNuke.Log4Net.dll",
+      "Version": "3.0.1.0"
+    }
+  ],
+  "Dependencies": [],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.Instrumentation.dll",
+      "Version": "9.1.0.367"
+    },
+    {
+      "Name": "DotNetNuke.Log4Net.dll",
+      "Version": "3.0.1.0"
+    }
+  ]
+}

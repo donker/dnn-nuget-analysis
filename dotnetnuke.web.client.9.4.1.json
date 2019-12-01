@@ -1,0 +1,39 @@
+{
+  "NupkgFile": "dotnetnuke.web.client.9.4.1.nupkg",
+  "Name": "DotNetNuke.Web.Client",
+  "Version": "9.4.1",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Web.Client.dll",
+      "Version": "9.4.1.22"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Name": "DotNetNuke.Core",
+      "Version": "9.4.1"
+    }
+  ],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.DependencyInjection.dll",
+      "Version": "9.4.1.22"
+    },
+    {
+      "Name": "DotNetNuke.dll",
+      "Version": "9.4.1.22"
+    },
+    {
+      "Name": "DotNetNuke.Web.Client.dll",
+      "Version": "9.4.1.22"
+    },
+    {
+      "Name": "Microsoft.ApplicationBlocks.Data.dll",
+      "Version": "2.0.0.0"
+    },
+    {
+      "Name": "Microsoft.Extensions.DependencyInjection.dll",
+      "Version": "2.1.1.18157"
+    }
+  ]
+}

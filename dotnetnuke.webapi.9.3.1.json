@@ -1,0 +1,54 @@
+{
+  "NupkgFile": "dotnetnuke.webapi.9.3.1.nupkg",
+  "Name": "DotNetNuke.WebApi",
+  "Version": "9.3.1",
+  "Assemblies": [],
+  "Dependencies": [
+    {
+      "Name": "DotNetNuke.Web",
+      "Version": "9.3.1"
+    },
+    {
+      "Name": "Microsoft.AspNet.WebApi.Client",
+      "Version": "5.2.3"
+    },
+    {
+      "Name": "Microsoft.AspNet.WebApi.Core",
+      "Version": "5.2.3"
+    },
+    {
+      "Name": "NewtonSoft.Json",
+      "Version": "10.0.3"
+    }
+  ],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.dll",
+      "Version": "9.3.1.2"
+    },
+    {
+      "Name": "DotNetNuke.Web.dll",
+      "Version": "9.3.1.2"
+    },
+    {
+      "Name": "DotNetNuke.WebUtility.dll",
+      "Version": "4.2.1.783"
+    },
+    {
+      "Name": "Microsoft.ApplicationBlocks.Data.dll",
+      "Version": "2.0.0.0"
+    },
+    {
+      "Name": "Newtonsoft.Json.dll",
+      "Version": "10.0.3.21018"
+    },
+    {
+      "Name": "System.Net.Http.Formatting.dll",
+      "Version": "5.2.30128.0"
+    },
+    {
+      "Name": "System.Web.Http.dll",
+      "Version": "5.2.30128.0"
+    }
+  ]
+}

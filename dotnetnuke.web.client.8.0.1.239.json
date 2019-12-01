@@ -1,0 +1,18 @@
+{
+  "NupkgFile": "dotnetnuke.web.client.8.0.1.239.nupkg",
+  "Name": "DotNetNuke.Web.Client",
+  "Version": "8.0.1.239",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Web.Client.dll",
+      "Version": "8.0.1.239"
+    }
+  ],
+  "Dependencies": [],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.Web.Client.dll",
+      "Version": "8.0.1.239"
+    }
+  ]
+}

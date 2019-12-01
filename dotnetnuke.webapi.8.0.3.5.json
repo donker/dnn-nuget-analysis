@@ -1,0 +1,39 @@
+{
+  "NupkgFile": "dotnetnuke.webapi.8.0.3.5.nupkg",
+  "Name": "DotNetNuke.WebApi",
+  "Version": "8.0.3.5",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Web.dll",
+      "Version": "8.0.3.5"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Name": "Microsoft.AspNet.WebApi.Client",
+      "Version": "4.0.20710.0"
+    }
+  ],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.Web.dll",
+      "Version": "8.0.3.5"
+    },
+    {
+      "Name": "Newtonsoft.Json.dll",
+      "Version": "4.5.6.14930"
+    },
+    {
+      "Name": "System.Net.Http.dll",
+      "Version": "1.0.0.0"
+    },
+    {
+      "Name": "System.Net.Http.Formatting.dll",
+      "Version": "4.0.20710.0"
+    },
+    {
+      "Name": "System.Net.Http.WebRequest.dll",
+      "Version": "1.0.0.0"
+    }
+  ]
+}
