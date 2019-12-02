@@ -1,0 +1,334 @@
+[
+  {
+    "AssemblyName": "ClientDependency.Core",
+    "Version": "0.0.0.0"
+  },
+  {
+    "AssemblyName": "CountryListBox",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "Dnn.AzureConnector",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "Dnn.EditBar.Library",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.EditBar.UI",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.Modules.Console",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "Dnn.Modules.ModuleCreator",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.AdminLogs",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.ConfigConsole",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.Connectors",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.CssEditor",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.Extensions",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.Library",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.Licensing",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.Pages",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.Prompt",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.Recyclebin",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.Roles",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.Security",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.Seo",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.Servers",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.SiteImportExport",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.Sites",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.SiteSettings",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.SqlConsole",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.TaskScheduler",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.Themes",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.UI",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.Users",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.PersonaBar.Vocabularies",
+    "Version": "1.5.0.0"
+  },
+  {
+    "AssemblyName": "DNNConnect.CKEditorProvider",
+    "Version": "1.0.4.20600"
+  },
+  {
+    "AssemblyName": "DotNetNuke",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.HttpModules",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Instrumentation",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Log4Net",
+    "Version": "3.0.1.0"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.CoreMessaging",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.DigitalAssets",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.Groups",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.Html",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.HtmlEditorManager",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.Journal",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.MemberDirectory",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.RazorHost",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Providers.AspNetClientCapabilityProvider",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Providers.FolderProviders",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Services.Syndication",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.SiteExportImport",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.SiteExportImport.Library",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Web.Client",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Web.DDRMenu",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Web.Deprecated",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Web",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Web.Mvc",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Web.Razor",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.WebControls",
+    "Version": "2.4.0.598"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Website",
+    "Version": "9.2.0.366"
+  },
+  {
+    "AssemblyName": "DotNetNuke.WebUtility",
+    "Version": "4.2.1.783"
+  },
+  {
+    "AssemblyName": "ICSharpCode.SharpZipLib",
+    "Version": "0.86.0.518"
+  },
+  {
+    "AssemblyName": "LiteDB",
+    "Version": "3.1.0.0"
+  },
+  {
+    "AssemblyName": "Lucene.Net.Contrib.Analyzers",
+    "Version": "3.0.3.0"
+  },
+  {
+    "AssemblyName": "Lucene.Net.Contrib.FastVectorHighlighter",
+    "Version": "3.0.3.0"
+  },
+  {
+    "AssemblyName": "Lucene.Net",
+    "Version": "3.0.3.0"
+  },
+  {
+    "AssemblyName": "Microsoft.ApplicationBlocks.Data",
+    "Version": "2.0.0.0"
+  },
+  {
+    "AssemblyName": "Microsoft.Web.Helpers",
+    "Version": "3.0.0.0"
+  },
+  {
+    "AssemblyName": "Microsoft.Web.Infrastructure",
+    "Version": "1.0.0.0"
+  },
+  {
+    "AssemblyName": "Microsoft.WindowsAzure.Storage",
+    "Version": "8.3.0.0"
+  },
+  {
+    "AssemblyName": "Newtonsoft.Json",
+    "Version": "11.0.0.0"
+  },
+  {
+    "AssemblyName": "PetaPoco",
+    "Version": "5.0.1.17400"
+  },
+  {
+    "AssemblyName": "SchwabenCode.QuickIO",
+    "Version": "2.6.2.0"
+  },
+  {
+    "AssemblyName": "System.Net.Http.Formatting",
+    "Version": "5.2.3.0"
+  },
+  {
+    "AssemblyName": "System.Web.Helpers",
+    "Version": "3.0.0.0"
+  },
+  {
+    "AssemblyName": "System.Web.Http",
+    "Version": "5.2.3.0"
+  },
+  {
+    "AssemblyName": "System.Web.Http.WebHost",
+    "Version": "5.2.3.0"
+  },
+  {
+    "AssemblyName": "System.Web.Mvc",
+    "Version": "5.1.0.0"
+  },
+  {
+    "AssemblyName": "System.Web.Razor",
+    "Version": "3.0.0.0"
+  },
+  {
+    "AssemblyName": "System.Web.WebPages.Deployment",
+    "Version": "3.0.0.0"
+  },
+  {
+    "AssemblyName": "System.Web.WebPages",
+    "Version": "3.0.0.0"
+  },
+  {
+    "AssemblyName": "System.Web.WebPages.Razor",
+    "Version": "3.0.0.0"
+  },
+  {
+    "AssemblyName": "Telerik.Web.UI",
+    "Version": "2013.2.717.40"
+  },
+  {
+    "AssemblyName": "Telerik.Web.UI.Skins",
+    "Version": "2013.2.717.40"
+  },
+  {
+    "AssemblyName": "WebFormsMvp",
+    "Version": "1.4.1.0"
+  },
+  {
+    "AssemblyName": "WebMatrix.Data",
+    "Version": "3.0.0.0"
+  },
+  {
+    "AssemblyName": "WebMatrix.WebData",
+    "Version": "3.0.0.0"
+  }
+]

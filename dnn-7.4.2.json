@@ -1,0 +1,234 @@
+[
+  {
+    "AssemblyName": "ClientDependency.Core",
+    "Version": "0.0.0.0"
+  },
+  {
+    "AssemblyName": "CountryListBox",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DNN.Modules.SecurityAnalyzer",
+    "Version": "1.0.1.0"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Authentication.Facebook",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Authentication.Google",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Authentication.LiveConnect",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Authentication.Twitter",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.DNNMenuNavigationProvider",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.HttpModules",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Instrumentation",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Log4Net",
+    "Version": "3.0.1.0"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.CoreMessaging",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.DigitalAssets",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.Groups",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.Html",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.HtmlEditorManager",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.Journal",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.MemberDirectory",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.MobileManagement",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.PreviewProfileManagement",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.RazorHost",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.Taxonomy",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Modules.UrlManagement",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Providers.FiftyOneClientCapabilityProvider",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.RadEditorProvider",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Services.Syndication",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Web.Client",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Web.DDRMenu",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Web",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Web.Razor",
+    "Version": "7.4.2.216"
+  },
+  {
+    "AssemblyName": "DotNetNuke.WebControls",
+    "Version": "2.4.0.598"
+  },
+  {
+    "AssemblyName": "DotNetNuke.WebUtility",
+    "Version": "4.2.1.783"
+  },
+  {
+    "AssemblyName": "FiftyOne.Foundation",
+    "Version": "3.2.3.2"
+  },
+  {
+    "AssemblyName": "Lucene.Net.Contrib.Analyzers",
+    "Version": "3.0.3.0"
+  },
+  {
+    "AssemblyName": "Lucene.Net.Contrib.FastVectorHighlighter",
+    "Version": "3.0.3.0"
+  },
+  {
+    "AssemblyName": "Lucene.Net",
+    "Version": "3.0.3.0"
+  },
+  {
+    "AssemblyName": "Microsoft.ApplicationBlocks.Data",
+    "Version": "2.0.0.0"
+  },
+  {
+    "AssemblyName": "Microsoft.Web.Helpers",
+    "Version": "2.0.0.0"
+  },
+  {
+    "AssemblyName": "Microsoft.Web.Infrastructure",
+    "Version": "1.0.0.0"
+  },
+  {
+    "AssemblyName": "Newtonsoft.Json",
+    "Version": "11.0.0.0"
+  },
+  {
+    "AssemblyName": "PetaPoco",
+    "Version": "5.0.1.17400"
+  },
+  {
+    "AssemblyName": "SharpZipLib",
+    "Version": "0.81.0.1407"
+  },
+  {
+    "AssemblyName": "System.Net.Http",
+    "Version": "4.2.0.0"
+  },
+  {
+    "AssemblyName": "System.Net.Http.Formatting",
+    "Version": "4.0.0.0"
+  },
+  {
+    "AssemblyName": "System.Net.Http.WebRequest",
+    "Version": "4.0.0.0"
+  },
+  {
+    "AssemblyName": "System.Web.Helpers",
+    "Version": "2.0.0.0"
+  },
+  {
+    "AssemblyName": "System.Web.Http",
+    "Version": "4.0.0.0"
+  },
+  {
+    "AssemblyName": "System.Web.Http.WebHost",
+    "Version": "4.0.0.0"
+  },
+  {
+    "AssemblyName": "System.Web.Razor",
+    "Version": "2.0.0.0"
+  },
+  {
+    "AssemblyName": "System.Web.WebPages.Deployment",
+    "Version": "2.0.0.0"
+  },
+  {
+    "AssemblyName": "System.Web.WebPages",
+    "Version": "2.0.0.0"
+  },
+  {
+    "AssemblyName": "System.Web.WebPages.Razor",
+    "Version": "2.0.0.0"
+  },
+  {
+    "AssemblyName": "Telerik.Web.UI",
+    "Version": "2013.2.717.40"
+  },
+  {
+    "AssemblyName": "Telerik.Web.UI.Skins",
+    "Version": "2013.2.717.40"
+  },
+  {
+    "AssemblyName": "WebFormsMvp",
+    "Version": "1.4.1.0"
+  },
+  {
+    "AssemblyName": "WebMatrix.Data",
+    "Version": "2.0.0.0"
+  },
+  {
+    "AssemblyName": "WebMatrix.WebData",
+    "Version": "2.0.0.0"
+  }
+]
