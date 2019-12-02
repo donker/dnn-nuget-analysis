@@ -121,7 +121,7 @@
   },
   {
     "AssemblyName": "DNNConnect.CKEditorProvider",
-    "Version": "1.0.4.9329"
+    "Version": "1.0.4"
   },
   {
     "AssemblyName": "DotNetNuke",
@@ -237,11 +237,11 @@
   },
   {
     "AssemblyName": "Lucene.Net.Contrib.Analyzers",
-    "Version": "3.0.3.0"
+    "Version": "3.0.3"
   },
   {
     "AssemblyName": "Lucene.Net.Contrib.FastVectorHighlighter",
-    "Version": "3.0.3.0"
+    "Version": "3.0.3"
   },
   {
     "AssemblyName": "Lucene.Net",
@@ -253,11 +253,11 @@
   },
   {
     "AssemblyName": "Microsoft.Web.Helpers",
-    "Version": "3.0.0.0"
+    "Version": "3.0.20129.0"
   },
   {
     "AssemblyName": "Microsoft.Web.Infrastructure",
-    "Version": "1.0.0.0"
+    "Version": "1.0.20105.407"
   },
   {
     "AssemblyName": "Microsoft.WindowsAzure.Storage",
@@ -265,7 +265,7 @@
   },
   {
     "AssemblyName": "Newtonsoft.Json",
-    "Version": "11.0.0.0"
+    "Version": "10.0.3.21018"
   },
   {
     "AssemblyName": "PetaPoco",
@@ -277,39 +277,39 @@
   },
   {
     "AssemblyName": "System.Net.Http.Formatting",
-    "Version": "5.2.3.0"
+    "Version": "5.2.30128.0"
   },
   {
     "AssemblyName": "System.Web.Helpers",
-    "Version": "3.0.0.0"
+    "Version": "3.0.20129.0"
   },
   {
     "AssemblyName": "System.Web.Http",
-    "Version": "5.2.3.0"
+    "Version": "5.2.30128.0"
   },
   {
     "AssemblyName": "System.Web.Http.WebHost",
-    "Version": "5.2.3.0"
+    "Version": "5.2.30128.0"
   },
   {
     "AssemblyName": "System.Web.Mvc",
-    "Version": "5.1.0.0"
+    "Version": "5.1.20821.0"
   },
   {
     "AssemblyName": "System.Web.Razor",
-    "Version": "3.0.0.0"
+    "Version": "3.0.20129.0"
   },
   {
     "AssemblyName": "System.Web.WebPages.Deployment",
-    "Version": "3.0.0.0"
+    "Version": "3.0.20129.0"
   },
   {
     "AssemblyName": "System.Web.WebPages",
-    "Version": "3.0.0.0"
+    "Version": "3.0.20129.0"
   },
   {
     "AssemblyName": "System.Web.WebPages.Razor",
-    "Version": "3.0.0.0"
+    "Version": "3.0.20129.0"
   },
   {
     "AssemblyName": "Telerik.Web.UI",
@@ -325,10 +325,10 @@
   },
   {
     "AssemblyName": "WebMatrix.Data",
-    "Version": "3.0.0.0"
+    "Version": "3.0.20129.0"
   },
   {
     "AssemblyName": "WebMatrix.WebData",
-    "Version": "3.0.0.0"
+    "Version": "3.0.20129.0"
   }
 ]

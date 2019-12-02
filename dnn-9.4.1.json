@@ -5,11 +5,11 @@
   },
   {
     "AssemblyName": "CountryListBox",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "Dnn.AzureConnector",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DNN.Connectors.GoogleAnalytics",
@@ -25,11 +25,11 @@
   },
   {
     "AssemblyName": "Dnn.Modules.Console",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "Dnn.Modules.ModuleCreator",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "Dnn.PersonaBar.Extensions",
@@ -45,23 +45,23 @@
   },
   {
     "AssemblyName": "DNNConnect.CKEditorProvider",
-    "Version": "1.0.7.10285"
+    "Version": "1.0.7"
   },
   {
     "AssemblyName": "DotNetNuke.DependencyInjection",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.HttpModules",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Instrumentation",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Log4Net",
@@ -69,83 +69,83 @@
   },
   {
     "AssemblyName": "DotNetNuke.ModulePipeline",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Modules.CoreMessaging",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Modules.DigitalAssets",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Modules.Groups",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Modules.Html",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Modules.HtmlEditorManager",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Modules.Journal",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Modules.MemberDirectory",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Modules.RazorHost",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Providers.AspNetClientCapabilityProvider",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Providers.FolderProviders",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Services.Syndication",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.SiteExportImport",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.SiteExportImport.Library",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Web.Client",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Web.DDRMenu",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Web.Deprecated",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Web",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Web.Mvc",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.Web.Razor",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.WebControls",
@@ -153,7 +153,7 @@
   },
   {
     "AssemblyName": "DotNetNuke.Website",
-    "Version": "9.4.1.0"
+    "Version": "9.4.1.22"
   },
   {
     "AssemblyName": "DotNetNuke.WebUtility",
@@ -169,11 +169,11 @@
   },
   {
     "AssemblyName": "Lucene.Net.Contrib.Analyzers",
-    "Version": "3.0.3.0"
+    "Version": "3.0.3"
   },
   {
     "AssemblyName": "Lucene.Net.Contrib.FastVectorHighlighter",
-    "Version": "3.0.3.0"
+    "Version": "3.0.3"
   },
   {
     "AssemblyName": "Lucene.Net",
@@ -185,19 +185,19 @@
   },
   {
     "AssemblyName": "Microsoft.Extensions.DependencyInjection.Abstractions",
-    "Version": "2.1.1.0"
+    "Version": "2.1.1.18157"
   },
   {
     "AssemblyName": "Microsoft.Extensions.DependencyInjection",
-    "Version": "2.1.1.0"
+    "Version": "2.1.1.18157"
   },
   {
     "AssemblyName": "Microsoft.Web.Helpers",
-    "Version": "3.0.0.0"
+    "Version": "3.0.20129.0"
   },
   {
     "AssemblyName": "Microsoft.Web.Infrastructure",
-    "Version": "1.0.0.0"
+    "Version": "1.0.20105.407"
   },
   {
     "AssemblyName": "Microsoft.WindowsAzure.Storage",
@@ -205,7 +205,7 @@
   },
   {
     "AssemblyName": "Newtonsoft.Json",
-    "Version": "11.0.0.0"
+    "Version": "10.0.3.21018"
   },
   {
     "AssemblyName": "PetaPoco",
@@ -217,39 +217,39 @@
   },
   {
     "AssemblyName": "System.Net.Http.Formatting",
-    "Version": "5.2.3.0"
+    "Version": "5.2.30128.0"
   },
   {
     "AssemblyName": "System.Web.Helpers",
-    "Version": "3.0.0.0"
+    "Version": "3.0.20129.0"
   },
   {
     "AssemblyName": "System.Web.Http",
-    "Version": "5.2.3.0"
+    "Version": "5.2.30128.0"
   },
   {
     "AssemblyName": "System.Web.Http.WebHost",
-    "Version": "5.2.3.0"
+    "Version": "5.2.30128.0"
   },
   {
     "AssemblyName": "System.Web.Mvc",
-    "Version": "5.1.0.0"
+    "Version": "5.1.20821.0"
   },
   {
     "AssemblyName": "System.Web.Razor",
-    "Version": "3.0.0.0"
+    "Version": "3.0.20129.0"
   },
   {
     "AssemblyName": "System.Web.WebPages.Deployment",
-    "Version": "3.0.0.0"
+    "Version": "3.0.20129.0"
   },
   {
     "AssemblyName": "System.Web.WebPages",
-    "Version": "3.0.0.0"
+    "Version": "3.0.20129.0"
   },
   {
     "AssemblyName": "System.Web.WebPages.Razor",
-    "Version": "3.0.0.0"
+    "Version": "3.0.20129.0"
   },
   {
     "AssemblyName": "Telerik.Web.UI",
@@ -265,10 +265,10 @@
   },
   {
     "AssemblyName": "WebMatrix.Data",
-    "Version": "3.0.0.0"
+    "Version": "3.0.20129.0"
   },
   {
     "AssemblyName": "WebMatrix.WebData",
-    "Version": "3.0.0.0"
+    "Version": "3.0.20129.0"
   }
 ]

@@ -1,191 +1,179 @@
 [
   {
     "AssemblyName": "ClientDependency.Core",
-    "Version": "0.0.0.0"
+    "Version": "1.9.2.7"
   },
   {
     "AssemblyName": "CountryListBox",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
-    "AssemblyName": "Dnn.Modules.ConfigurationManager",
-    "Version": "8.0.3.5"
+    "AssemblyName": "Dnn.AzureConnector",
+    "Version": "9.4.3.33"
+  },
+  {
+    "AssemblyName": "DNN.Connectors.GoogleAnalytics",
+    "Version": "0.0.0.0"
+  },
+  {
+    "AssemblyName": "Dnn.EditBar.Library",
+    "Version": "9.4.3.33"
+  },
+  {
+    "AssemblyName": "Dnn.EditBar.UI",
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "Dnn.Modules.Console",
-    "Version": "8.0.3.5"
-  },
-  {
-    "AssemblyName": "Dnn.Modules.Dashboard",
-    "Version": "8.0.3.5"
-  },
-  {
-    "AssemblyName": "Dnn.Modules.GoogleAnalytics",
-    "Version": "8.0.3.5"
-  },
-  {
-    "AssemblyName": "Dnn.Modules.Languages",
-    "Version": "8.0.3.5"
-  },
-  {
-    "AssemblyName": "Dnn.Modules.Lists",
-    "Version": "8.0.3.5"
-  },
-  {
-    "AssemblyName": "Dnn.Modules.LogViewer",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "Dnn.Modules.ModuleCreator",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
-    "AssemblyName": "Dnn.Modules.RecycleBin",
-    "Version": "8.0.3.5"
+    "AssemblyName": "Dnn.PersonaBar.Extensions",
+    "Version": "9.4.3.33"
   },
   {
-    "AssemblyName": "DNN.Modules.SecurityAnalyzer",
-    "Version": "01.00.01.00"
+    "AssemblyName": "Dnn.PersonaBar.Library",
+    "Version": "9.4.3.33"
   },
   {
-    "AssemblyName": "Dnn.Modules.Sitemap",
-    "Version": "8.0.3.5"
-  },
-  {
-    "AssemblyName": "Dnn.Modules.SiteWizard",
-    "Version": "8.0.3.5"
-  },
-  {
-    "AssemblyName": "Dnn.Modules.SkinManagement",
-    "Version": "8.0.3.5"
-  },
-  {
-    "AssemblyName": "Dnn.Modules.Sql",
-    "Version": "8.0.3.5"
-  },
-  {
-    "AssemblyName": "Dnn.Modules.Tabs",
-    "Version": "8.0.3.5"
+    "AssemblyName": "Dnn.PersonaBar.UI",
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DNNConnect.CKEditorProvider",
-    "Version": "1.0.2"
+    "Version": "1.0.7"
+  },
+  {
+    "AssemblyName": "DotNetNuke.Abstractions",
+    "Version": "9.4.3.33"
+  },
+  {
+    "AssemblyName": "DotNetNuke.DependencyInjection",
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.HttpModules",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.Instrumentation",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
-    "AssemblyName": "DotNetNuke.Log4Net",
+    "AssemblyName": "DotNetNuke.log4net",
     "Version": "3.0.1.0"
   },
   {
+    "AssemblyName": "DotNetNuke.ModulePipeline",
+    "Version": "9.4.3.33"
+  },
+  {
     "AssemblyName": "DotNetNuke.Modules.CoreMessaging",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.Modules.DigitalAssets",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.Modules.Groups",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.Modules.Html",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.Modules.HtmlEditorManager",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.Modules.Journal",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.Modules.MemberDirectory",
-    "Version": "8.0.3.5"
-  },
-  {
-    "AssemblyName": "DotNetNuke.Modules.MobileManagement",
-    "Version": "8.0.3.5"
-  },
-  {
-    "AssemblyName": "DotNetNuke.Modules.PreviewProfileManagement",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.Modules.RazorHost",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
-    "AssemblyName": "DotNetNuke.Modules.Taxonomy",
-    "Version": "8.0.3.5"
+    "AssemblyName": "DotNetNuke.Providers.AspNetClientCapabilityProvider",
+    "Version": "9.4.3.33"
   },
   {
-    "AssemblyName": "DotNetNuke.Modules.UrlManagement",
-    "Version": "8.0.3.5"
-  },
-  {
-    "AssemblyName": "DotNetNuke.Providers.FiftyOneClientCapabilityProvider",
-    "Version": "8.0.3.5"
-  },
-  {
-    "AssemblyName": "DotNetNuke.RadEditorProvider",
-    "Version": "8.0.3.5"
+    "AssemblyName": "DotNetNuke.Providers.FolderProviders",
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.Services.Syndication",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
+  },
+  {
+    "AssemblyName": "DotNetNuke.SiteExportImport",
+    "Version": "9.4.3.33"
+  },
+  {
+    "AssemblyName": "DotNetNuke.SiteExportImport.Library",
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.Web.Client",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.Web.DDRMenu",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.Web.Deprecated",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.Web",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.Web.Mvc",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.Web.Razor",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.WebControls",
     "Version": "2.4.0.598"
   },
   {
+    "AssemblyName": "DotNetNuke.Website.Deprecated",
+    "Version": "9.4.3.33"
+  },
+  {
     "AssemblyName": "DotNetNuke.Website",
-    "Version": "8.0.3.5"
+    "Version": "9.4.3.33"
   },
   {
     "AssemblyName": "DotNetNuke.WebUtility",
     "Version": "4.2.1.783"
   },
   {
-    "AssemblyName": "FiftyOne.Foundation",
-    "Version": "3.2.3.2"
+    "AssemblyName": "ICSharpCode.SharpZipLib",
+    "Version": "0.86.0.518"
+  },
+  {
+    "AssemblyName": "LiteDB",
+    "Version": "3.1.0.0"
   },
   {
     "AssemblyName": "Lucene.Net.Contrib.Analyzers",
@@ -200,12 +188,16 @@
     "Version": "3.0.3.0"
   },
   {
-    "AssemblyName": "Microsoft.AnalysisServices.AdomdClient",
-    "Version": "10.50.1600.1 ((KJ_RTM).100402-1540 )"
-  },
-  {
     "AssemblyName": "Microsoft.ApplicationBlocks.Data",
     "Version": "2.0.0.0"
+  },
+  {
+    "AssemblyName": "Microsoft.Extensions.DependencyInjection.Abstractions",
+    "Version": "2.1.1.18157"
+  },
+  {
+    "AssemblyName": "Microsoft.Extensions.DependencyInjection",
+    "Version": "2.1.1.18157"
   },
   {
     "AssemblyName": "Microsoft.Web.Helpers",
@@ -216,20 +208,20 @@
     "Version": "1.0.20105.407"
   },
   {
+    "AssemblyName": "Microsoft.WindowsAzure.Storage",
+    "Version": "8.3.0.0"
+  },
+  {
     "AssemblyName": "Newtonsoft.Json",
-    "Version": "7.0.1.18622"
+    "Version": "10.0.3.21018"
   },
   {
     "AssemblyName": "PetaPoco",
-    "Version": "5.0.1.17400"
+    "Version": "6.0.415.0"
   },
   {
     "AssemblyName": "SchwabenCode.QuickIO",
     "Version": "2.6.2.0"
-  },
-  {
-    "AssemblyName": "SharpZipLib",
-    "Version": "0.81.0.1407"
   },
   {
     "AssemblyName": "System.Net.Http.Formatting",
@@ -249,7 +241,7 @@
   },
   {
     "AssemblyName": "System.Web.Mvc",
-    "Version": "5.1.20129.0"
+    "Version": "5.1.20821.0"
   },
   {
     "AssemblyName": "System.Web.Razor",
