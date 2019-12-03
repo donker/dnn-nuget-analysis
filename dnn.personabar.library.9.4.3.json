@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dnn.personabar.library.9.4.3.nupkg",
   "Name": "Dnn.PersonaBar.Library",
+  "Description": "DNN PersonaBar Common Library",
   "Version": "9.4.3",
   "Assemblies": [
     {

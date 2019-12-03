@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.web.9.0.0.1002.nupkg",
   "Name": "DotNetNuke.Web",
+  "Description": "Open Source Web Application Framework",
   "Version": "9.0.0.1002",
   "Assemblies": [
     {

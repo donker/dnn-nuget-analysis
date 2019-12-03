@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.instrumentation.9.4.2.nupkg",
   "Name": "DotNetNuke.Instrumentation",
+  "Description": "Provides references to enhanced logging and instrumentation available within DNN Platform for extension developers. Including access to Log4Net",
   "Version": "9.4.2",
   "Assemblies": [
     {

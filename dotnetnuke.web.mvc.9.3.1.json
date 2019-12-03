@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.web.mvc.9.3.1.nupkg",
   "Name": "DotNetNuke.Web.Mvc",
+  "Description": "Provides API references needed to develop ASP.MVC extensions for DNN Platform",
   "Version": "9.3.1",
   "Assemblies": [
     {

@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.core.9.2.1.533.nupkg",
   "Name": "DotNetNuke.Core",
+  "Description": "DNN Platform is an open source web application framework.\r\n      This package contains only the core DNN Platform library.",
   "Version": "9.2.1.533",
   "Assemblies": [
     {

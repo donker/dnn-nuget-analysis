@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.providers.folderproviders.9.2.1.533.nupkg",
   "Name": "DotNetNuke.Providers.FolderProviders",
+  "Description": "DotNetNuke Folder Providers",
   "Version": "9.2.1.533",
   "Assemblies": [
     {

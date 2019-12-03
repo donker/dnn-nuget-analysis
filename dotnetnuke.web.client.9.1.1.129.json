@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.web.client.9.1.1.129.nupkg",
   "Name": "DotNetNuke.Web.Client",
+  "Description": "DNN Platform is an open source web application framework.\n      This package contains components which can be used for managing client-side resources (e.g. JavaScript and CSS) within DNN Platform.",
   "Version": "9.1.1.129",
   "Assemblies": [
     {

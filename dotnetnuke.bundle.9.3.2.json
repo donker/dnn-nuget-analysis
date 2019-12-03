@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.bundle.9.3.2.nupkg",
   "Name": "DotNetNuke.Bundle",
+  "Description": "This package is a metapackage that automatically includes all other available DNN Packages, this should only be used in situations where support for ALL types of development are truly needed.",
   "Version": "9.3.2",
   "Assemblies": [
     {

@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.web.deprecated.9.1.1.129.nupkg",
   "Name": "DotNetNuke.Web.Deprecated",
+  "Description": "DNN Platform is an open source web application framework.\n      This package contains components which are deprecated and expected to be removed from DNN Platform in a later version.",
   "Version": "9.1.1.129",
   "Assemblies": [
     {

@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.siteexportimport.9.3.2.nupkg",
   "Name": "DotNetNuke.SiteExportImport",
+  "Description": "This package contains components required for developing extensiong to utilize site export/import features.",
   "Version": "9.3.2",
   "Assemblies": [
     {

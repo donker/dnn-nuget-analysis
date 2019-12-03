@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.web.deprecated.8.0.4.226.nupkg",
   "Name": "DotNetNuke.Web.Deprecated",
+  "Description": "Open Source Web Application Framework",
   "Version": "8.0.4.226",
   "Assemblies": [
     {

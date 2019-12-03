@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.web.client.8.0.2.4.nupkg",
   "Name": "DotNetNuke.Web.Client",
+  "Description": "Open Source Web Application Framework",
   "Version": "8.0.2.4",
   "Assemblies": [
     {

@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.web.9.0.1.142.nupkg",
   "Name": "DotNetNuke.Web",
+  "Description": "DNN Platform is an open source web application framework.\n      This package contains components required for developing extensions for DNN Platform.",
   "Version": "9.0.1.142",
   "Assemblies": [
     {

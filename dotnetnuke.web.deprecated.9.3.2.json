@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.web.deprecated.9.3.2.nupkg",
   "Name": "DotNetNuke.Web.Deprecated",
+  "Description": "Provides API references for deprecated items removed from the primary API's, such as DNN's Telerik component.  These elements may not be distributed with DNN in the future",
   "Version": "9.3.2",
   "Assemblies": [
     {

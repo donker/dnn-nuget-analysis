@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.web.mvc.9.2.1.533.nupkg",
   "Name": "DotNetNuke.Web.Mvc",
+  "Description": "DNN Platform is an open source web application framework.\r\n      This package contains components required for developing DNN Platform modules using ASP.NET MVC.",
   "Version": "9.2.1.533",
   "Assemblies": [
     {

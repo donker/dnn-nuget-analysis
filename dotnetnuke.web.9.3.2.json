@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.web.9.3.2.nupkg",
   "Name": "DotNetNuke.Web",
+  "Description": "Provides references to core components such as Caching, Security and other security-related items for DNN Platform",
   "Version": "9.3.2",
   "Assemblies": [
     {

@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.providers.folderproviders.9.3.1.nupkg",
   "Name": "DotNetNuke.Providers.FolderProviders",
+  "Description": "Provides API references needed to develop custom folder providers, or to consume folder providers",
   "Version": "9.3.1",
   "Assemblies": [
     {

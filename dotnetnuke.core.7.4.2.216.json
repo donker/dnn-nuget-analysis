@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.core.7.4.2.216.nupkg",
   "Name": "DotNetNuke.Core",
+  "Description": "Open Source Web Application Framework",
   "Version": "7.4.2.216",
   "Assemblies": [
     {

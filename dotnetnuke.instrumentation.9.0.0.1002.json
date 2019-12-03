@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.instrumentation.9.0.0.1002.nupkg",
   "Name": "DotNetNuke.Instrumentation",
+  "Description": "Open Source Web Application Framework",
   "Version": "9.0.0.1002",
   "Assemblies": [
     {

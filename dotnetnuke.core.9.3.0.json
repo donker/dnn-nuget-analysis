@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.core.9.3.0.nupkg",
   "Name": "DotNetNuke.Core",
+  "Description": "Provides basic references to the DotNetNuke.dll to develop extensions for the DNN Platform.  For MVC or WebAPI please see other packages available as well",
   "Version": "9.3.0",
   "Assemblies": [
     {

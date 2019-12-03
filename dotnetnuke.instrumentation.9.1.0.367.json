@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.instrumentation.9.1.0.367.nupkg",
   "Name": "DotNetNuke.Instrumentation",
+  "Description": "DNN Platform is an open source web application framework.\n      This package contains components required for logging and instrumentation for DNN Platform.",
   "Version": "9.1.0.367",
   "Assemblies": [
     {

@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.web.mvc.8.0.2.4.nupkg",
   "Name": "DotNetNuke.Web.Mvc",
+  "Description": "Open Source Web Application Framework",
   "Version": "8.0.2.4",
   "Assemblies": [
     {

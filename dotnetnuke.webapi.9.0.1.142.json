@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.webapi.9.0.1.142.nupkg",
   "Name": "DotNetNuke.WebApi",
+  "Description": "DNN Platform is an open source web application framework. This package contains components required for developing extensions for DNN Platform.",
   "Version": "9.0.1.142",
   "Assemblies": [
     {

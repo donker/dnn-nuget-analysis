@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.webapi.7.2.0.613.nupkg",
   "Name": "DotNetNuke.WebApi",
+  "Description": "Open Source Web Application Framework",
   "Version": "7.2.0.613",
   "Assemblies": [
     {

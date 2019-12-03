@@ -1,6 +1,7 @@
 {
   "NupkgFile": "dotnetnuke.webapi.9.4.0.nupkg",
   "Name": "DotNetNuke.WebApi",
+  "Description": "This package contains components required for developing WebAPI based services for DNN Platform.",
   "Version": "9.4.0",
   "Assemblies": [],
   "Dependencies": [
