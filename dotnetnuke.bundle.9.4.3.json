@@ -1,19 +1,19 @@
 {
-  "NupkgFile": "dotnetnuke.bundle.9.4.2.nupkg",
+  "NupkgFile": "dotnetnuke.bundle.9.4.3.nupkg",
   "Name": "DotNetNuke.Bundle",
-  "Version": "9.4.2",
+  "Version": "9.4.3",
   "Assemblies": [
     {
       "Name": "DNN.Integration.Test.Framework.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.HttpModules.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.Modules.DigitalAssets.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.Tests.Utilities.dll",
@@ -27,81 +27,81 @@
   "Dependencies": [
     {
       "Name": "DotNetNuke.Core",
-      "Version": "9.4.2"
+      "Version": "9.4.3"
     },
     {
       "Name": "DotNetNuke.Instrumentation",
-      "Version": "9.4.2"
+      "Version": "9.4.3"
     },
     {
       "Name": "DotNetNuke.Providers.FolderProviders",
-      "Version": "9.4.2"
+      "Version": "9.4.3"
     },
     {
       "Name": "DotNetNuke.SiteExportImport",
-      "Version": "9.4.2"
+      "Version": "9.4.3"
     },
     {
       "Name": "DotNetNuke.Web",
-      "Version": "9.4.2"
+      "Version": "9.4.3"
     },
     {
       "Name": "DotNetNuke.Web.Client",
-      "Version": "9.4.2"
+      "Version": "9.4.3"
     },
     {
       "Name": "DotNetNuke.Web.Deprecated",
-      "Version": "9.4.2"
+      "Version": "9.4.3"
     },
     {
       "Name": "DotNetNuke.Web.Mvc",
-      "Version": "9.4.2"
+      "Version": "9.4.3"
     },
     {
       "Name": "DotNetNuke.WebApi",
-      "Version": "9.4.2"
+      "Version": "9.4.3"
     }
   ],
   "AllAssemblies": [
     {
       "Name": "DNN.Integration.Test.Framework.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.DependencyInjection.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.HttpModules.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.Instrumentation.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
-      "Name": "DotNetNuke.Log4Net.dll",
+      "Name": "DotNetNuke.log4net.dll",
       "Version": "3.0.1.0"
     },
     {
       "Name": "DotNetNuke.Modules.DigitalAssets.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.Providers.FolderProviders.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.SiteExportImport.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.SiteExportImport.Library.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.Tests.Utilities.dll",
@@ -109,19 +109,19 @@
     },
     {
       "Name": "DotNetNuke.Web.Client.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.Web.Deprecated.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.Web.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.Web.Mvc.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.WebControls.dll",

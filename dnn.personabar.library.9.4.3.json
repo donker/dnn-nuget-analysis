@@ -1,0 +1,63 @@
+{
+  "NupkgFile": "dnn.personabar.library.9.4.3.nupkg",
+  "Name": "Dnn.PersonaBar.Library",
+  "Version": "9.4.3",
+  "Assemblies": [
+    {
+      "Name": "Dnn.PersonaBar.Library.dll",
+      "Version": "9.4.3.33"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Name": "DotNetNuke.Core",
+      "Version": "9.4.3"
+    },
+    {
+      "Name": "DotNetNuke.Instrumentation",
+      "Version": "9.4.3"
+    },
+    {
+      "Name": "DotNetNuke.Web",
+      "Version": "9.4.3"
+    }
+  ],
+  "AllAssemblies": [
+    {
+      "Name": "Dnn.PersonaBar.Library.dll",
+      "Version": "9.4.3.33"
+    },
+    {
+      "Name": "DotNetNuke.DependencyInjection.dll",
+      "Version": "9.4.3.33"
+    },
+    {
+      "Name": "DotNetNuke.dll",
+      "Version": "9.4.3.33"
+    },
+    {
+      "Name": "DotNetNuke.Instrumentation.dll",
+      "Version": "9.4.3.33"
+    },
+    {
+      "Name": "DotNetNuke.log4net.dll",
+      "Version": "3.0.1.0"
+    },
+    {
+      "Name": "DotNetNuke.Web.dll",
+      "Version": "9.4.3.33"
+    },
+    {
+      "Name": "DotNetNuke.WebUtility.dll",
+      "Version": "4.2.1.783"
+    },
+    {
+      "Name": "Microsoft.ApplicationBlocks.Data.dll",
+      "Version": "2.0.0.0"
+    },
+    {
+      "Name": "Microsoft.Extensions.DependencyInjection.dll",
+      "Version": "2.1.1.18157"
+    }
+  ]
+}

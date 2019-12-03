@@ -1,0 +1,18 @@
+{
+  "NupkgFile": "dotnetnuke.abstractions.9.4.3.nupkg",
+  "Name": "DotNetNuke.Abstractions",
+  "Version": "9.4.3",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Abstractions.dll",
+      "Version": "9.4.3.33"
+    }
+  ],
+  "Dependencies": [],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.Abstractions.dll",
+      "Version": "9.4.3.33"
+    }
+  ]
+}

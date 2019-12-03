@@ -1,0 +1,27 @@
+{
+  "NupkgFile": "dotnetnuke.dependencyinjection.9.4.3.nupkg",
+  "Name": "DotNetNuke.DependencyInjection",
+  "Version": "9.4.3",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.DependencyInjection.dll",
+      "Version": "9.4.3.33"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Name": "Microsoft.Extensions.DependencyInjection",
+      "Version": "2.1.1"
+    }
+  ],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.DependencyInjection.dll",
+      "Version": "9.4.3.33"
+    },
+    {
+      "Name": "Microsoft.Extensions.DependencyInjection.dll",
+      "Version": "2.1.1.18157"
+    }
+  ]
+}

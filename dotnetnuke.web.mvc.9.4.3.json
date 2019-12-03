@@ -1,25 +1,25 @@
 {
-  "NupkgFile": "dotnetnuke.web.mvc.9.4.2.nupkg",
+  "NupkgFile": "dotnetnuke.web.mvc.9.4.3.nupkg",
   "Name": "DotNetNuke.Web.Mvc",
-  "Version": "9.4.2",
+  "Version": "9.4.3",
   "Assemblies": [
     {
       "Name": "DotNetNuke.Web.Mvc.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     }
   ],
   "Dependencies": [
     {
       "Name": "DotNetNuke.Web",
-      "Version": "9.4.2"
+      "Version": "9.4.3"
     },
     {
       "Name": "DotNetNuke.Web.Client",
-      "Version": "9.4.2"
+      "Version": "9.4.3"
     },
     {
       "Name": "DotNetNuke.WebApi",
-      "Version": "9.4.2"
+      "Version": "9.4.3"
     },
     {
       "Name": "Microsoft.AspNet.Mvc",
@@ -41,23 +41,23 @@
   "AllAssemblies": [
     {
       "Name": "DotNetNuke.DependencyInjection.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.Web.Client.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.Web.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.Web.Mvc.dll",
-      "Version": "9.4.2.5830"
+      "Version": "9.4.3.33"
     },
     {
       "Name": "DotNetNuke.WebUtility.dll",
