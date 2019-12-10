@@ -1,0 +1,19 @@
+{
+  "NupkgFile": "dotnetnuke.abstractions.9.4.4.nupkg",
+  "Name": "DotNetNuke.Abstractions",
+  "Description": "Provides common abstraction API references for the DNN Platform.",
+  "Version": "9.4.4",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Abstractions.dll",
+      "Version": "9.4.4.5"
+    }
+  ],
+  "Dependencies": [],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.Abstractions.dll",
+      "Version": "9.4.4.5"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "NupkgFile": "dotnetnuke.web.client.9.4.4.nupkg",
+  "Name": "DotNetNuke.Web.Client",
+  "Description": "Provides API references for usage of the Client Dependency Framework (CDF) for the inclusion of CSS and JS files within DNN Platform",
+  "Version": "9.4.4",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Web.Client.dll",
+      "Version": "9.4.4.5"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Name": "DotNetNuke.Core",
+      "Version": "9.4.4"
+    }
+  ],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.DependencyInjection.dll",
+      "Version": "9.4.4.5"
+    },
+    {
+      "Name": "DotNetNuke.dll",
+      "Version": "9.4.4.5"
+    },
+    {
+      "Name": "DotNetNuke.Web.Client.dll",
+      "Version": "9.4.4.5"
+    },
+    {
+      "Name": "Microsoft.ApplicationBlocks.Data.dll",
+      "Version": "2.0.0.0"
+    },
+    {
+      "Name": "Microsoft.Extensions.DependencyInjection.dll",
+      "Version": "2.1.1.18157"
+    }
+  ]
+}

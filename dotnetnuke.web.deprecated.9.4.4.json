@@ -1,0 +1,56 @@
+{
+  "NupkgFile": "dotnetnuke.web.deprecated.9.4.4.nupkg",
+  "Name": "DotNetNuke.Web.Deprecated",
+  "Description": "Provides API references for deprecated items removed from the primary API's, such as DNN's Telerik component.  These elements may not be distributed with DNN in the future",
+  "Version": "9.4.4",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.Web.Deprecated.dll",
+      "Version": "9.4.4.5"
+    },
+    {
+      "Name": "Telerik.Web.UI.dll",
+      "Version": "2013.2.717.40"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Name": "DotNetNuke.Web",
+      "Version": "9.4.4"
+    }
+  ],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.DependencyInjection.dll",
+      "Version": "9.4.4.5"
+    },
+    {
+      "Name": "DotNetNuke.dll",
+      "Version": "9.4.4.5"
+    },
+    {
+      "Name": "DotNetNuke.Web.Deprecated.dll",
+      "Version": "9.4.4.5"
+    },
+    {
+      "Name": "DotNetNuke.Web.dll",
+      "Version": "9.4.4.5"
+    },
+    {
+      "Name": "DotNetNuke.WebUtility.dll",
+      "Version": "4.2.1.783"
+    },
+    {
+      "Name": "Microsoft.ApplicationBlocks.Data.dll",
+      "Version": "2.0.0.0"
+    },
+    {
+      "Name": "Microsoft.Extensions.DependencyInjection.dll",
+      "Version": "2.1.1.18157"
+    },
+    {
+      "Name": "Telerik.Web.UI.dll",
+      "Version": "2013.2.717.40"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "NupkgFile": "dotnetnuke.dependencyinjection.9.4.4.nupkg",
+  "Name": "DotNetNuke.DependencyInjection",
+  "Description": "Provides API references needed to use Dependency Injection for the DNN Platform.",
+  "Version": "9.4.4",
+  "Assemblies": [
+    {
+      "Name": "DotNetNuke.DependencyInjection.dll",
+      "Version": "9.4.4.5"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Name": "Microsoft.Extensions.DependencyInjection",
+      "Version": "2.1.1"
+    }
+  ],
+  "AllAssemblies": [
+    {
+      "Name": "DotNetNuke.DependencyInjection.dll",
+      "Version": "9.4.4.5"
+    },
+    {
+      "Name": "Microsoft.Extensions.DependencyInjection.dll",
+      "Version": "2.1.1.18157"
+    }
+  ]
+}
